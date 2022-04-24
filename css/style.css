@@ -1,0 +1,25 @@
+.color-primary {
+    color: #2E3A46;
+}
+
+.color-secondary {
+    color: #1E2D3B;
+}
+
+.color-tertiary {
+    color: gray;
+}
+
+.quote-cards {
+    width: 200px;
+}
+
+header {
+    background-color: #2E3A46;
+    height: 8vh;
+}
+
+main {
+    background-color: #1E2D3B;
+    height: calc(100vh - 8vh);
+}
