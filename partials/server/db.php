@@ -15,7 +15,7 @@ $disco = [
         'year' => '1992',
     ],
     [
-        'poster' => '	"https://images-na.ssl-images-amazon.com/images/I/41JD3CW65HL.jpg"',
+        'poster' => 'https://images-na.ssl-images-amazon.com/images/I/41JD3CW65HL.jpg',
         'title' => 'Ten\'s Summoner\'s Tales',
         'author' => 'Sting',
         'genre' => 'Pop',
