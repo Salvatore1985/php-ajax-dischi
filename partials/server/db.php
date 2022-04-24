@@ -29,16 +29,9 @@ $disco = [
         'year' => '2018',
     ],
     [
-        'poster' => 'https://www.onstageweb.com/wp-content/uploads/2018/09/bon-jovi-new-jersey.jpg',
-        'title' => 'New Jersey',
-        'author' => 'Bon Jovi',
-        'genre' => 'Rock',
-        'year' => '1988',
-    ],
-    [
         'poster' => 'https://images-na.ssl-images-amazon.com/images/I/810nSIQOLiL._SY355_.jpg',
         'title' => 'Brave new World',
-        'author' => 'Brave new World',
+        'author' => 'Iron Maiden',
         'genre' => 'Metal',
         'year' => '2000',
     ],
@@ -62,13 +55,6 @@ $disco = [
         'author' => 'Metallica',
         'genre' => 'Metallica',
         'year' => '1988',
-    ],
-    [
-        'poster' => 'https://upload.wikimedia.org/wikipedia/en/9/97/Eric_Clapton_OMCOMR.jpg',
-        'title' => 'One more car, one more raider',
-        'author' => 'Eric Clapton',
-        'genre' => 'Rock',
-        'year' => '2002',
     ],
     [
         'poster' => 'https://img.discogs.com/KOBsqQwKiNKH-q927oHMyVdDzSo=/fit-in/596x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6406665-1418464475-6120.jpeg.jpg',
