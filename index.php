@@ -20,14 +20,17 @@
 </head>
 
 <body>
-    <!-- header -->
-    <?php include __DIR__ . '/partials/template/header.php' ?>
-    <!-- main -->
-    <?php include __DIR__ . '/partials/template/main.php' ?>
-    <!--    <figure class="m-3 text-center">
+    <div id="app">
+        <!-- header -->
+        <?php include __DIR__ . '/partials/template/header.php' ?>
+        <!-- main -->
+        <?php include __DIR__ . '/partials/template/main.php' ?>
+        <!--    <figure class="m-3 text-center">
+    
+        </figure> -->
+        <script src="./partials/js/scripts.js"></script>
 
-    </figure> -->
-    <script src="./partials/js/scripts.js"></script>
+    </div>
 
 </body>
 
