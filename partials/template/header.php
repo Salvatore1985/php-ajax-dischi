@@ -9,22 +9,14 @@
                     <!--  <Genre /> -->
                     <section class="py-3 color-tertiary">
                         <label class="px-2" for="genre">Filtra per genere</label>
-                        <select name="genre" id="genre" v-model="serchSelectGenre">
-                            <option value="Tutte">
+                        <select v-model="genre" @change="getDiscs">
+                            <option value="">
                                 Tutte
                             </option>
-                            <option value="Rock">
-                                Rock
+                            <option :value="element" v-for="element in genres">
+                                {{element}}
                             </option>
-                            <option value="Pop">
-                                Pop
-                            </option>
-                            <option value="Jazz">
-                                Jazz
-                            </option>
-                            <option value="Metal">
-                                Metal
-                            </option>
+
                         </select>
                         <span class="px-3"></span>
                     </section>

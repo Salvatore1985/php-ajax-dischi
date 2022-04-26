@@ -28,9 +28,9 @@
         <!--    <figure class="m-3 text-center">
     
         </figure> -->
-        <script src="./partials/js/scripts.js"></script>
 
     </div>
+    <script src="./partials/js/scripts.js"></script>
 
 </body>
 
